@@ -1,0 +1,189 @@
+                
+        .allContent{
+            height: 800px;
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+        .header{
+            width: 100%;
+            height: 20%;
+        }
+        .topHeader{
+            width: 100%;
+            background-image: url(images/topnavbg.jpg);
+            height: 15%;
+            background-size: 100% 100%;
+        }
+        #toHeaderLink{
+            height: 100%;
+            text-align: right;
+            margin-right: 5%;
+            color: white;
+        }
+        
+        #toHeaderLink a:link, a:visited{
+            text-decoration: none;
+            color: white;
+        }
+        
+        .middleHeader{
+            width: 100%;
+            background-image: url(images/black-jack-casino.jpg);
+            height: 75%;
+            background-size: 100% 100%;
+        }
+        .bottomHeader{
+            width: 100%;
+            background-image: url(images/bar.gif);
+            height: 10%;
+            background-repeat: repeat-x;
+            background-size: 100% 100%;
+        }
+        
+        .content{
+            width: 100%;
+            height: 70%;
+            background-size: 100% 100%;
+        }
+        
+        .middleContent{
+            float: left;
+            height: 100%;
+        }
+        
+        #left{
+            width: 20%;
+            height: 100%;
+            background-image: url(images/leftnav.jpg);
+            background-repeat: repeat-x;
+            background-size: 100% 100%;
+        }
+        #leftButton{
+            width: 100%;
+            height: 70%;
+            background-size: 100% 100%;
+        }
+        #leftButton .spaceButton{
+            width: 100%;
+            height: 4%;
+            background-size: 100% 100%;
+        }
+        #leftButton .button{
+            width: 100%;
+            height: 5%;
+            margin-top: 2%;
+            margin-bottom: 1%;
+            text-align: center;
+            color: white;
+            background-image: url(images/leftnavbutton.jpg);
+            background-repeat: repeat-y;
+            background-size: 100% 100%;
+        }
+        
+        #leftButton .button a{
+            text-decoration: none;
+        }
+        
+        #leftButton .button a:link, a:visited{
+            color: white;
+        }
+        
+        #leftAdd{
+            width: 100%;
+            height: 30%;
+            background-size: 100% 100%;
+        }
+        #leftAdd img{
+            width: 80%;
+            height: 80%;
+            margin-top: 10%;
+            margin-left: 10%;
+            background-size: 100% 100%;
+        }
+        #middle{
+            width: 60%;
+            height: 100%;
+        }
+        #middleTop{
+            height: 4%;
+            margin-left: 20%;
+            margin-right: 20%;
+            color: white;
+            text-align: center;
+            font-family: sans-serif;
+            background-image: url(images/centre-bar.gif);
+            background-size: 100% 100%;
+        }
+        
+        #middle .middleAdd{
+            height: 10%;
+            margin-top: 2%;
+            margin-left: 2%;
+            margin-right: 2%;
+            background-size: 100% 100%;
+        }
+        
+        #middle img{
+            width: 100%;
+            height: 100%;
+        }
+        
+        #middle .middleText{
+            height: 18%;
+            margin-top: 2%;
+            margin-left: 5%;
+            margin-right: 5%;
+            font-family: sans-serif;
+            font-size: 15px;
+            text-align: justify;
+            text-align-last: center;
+        }
+        
+        #right{
+            width: 20%;
+            height: 100%;
+            background-image: url(images/leftnav.jpg);
+            background-repeat: repeat-x;
+            background-size: 100% 100%;
+        }
+        
+        #right img{
+            height: 100%;
+            width: 100%;
+        }
+        .footer{
+            width: 100%;
+            height: 10%;
+            background-size: 100% 100%;
+            background-color: black;
+        }
+        .footerBlank{
+            width: 100%;
+            height: 20%;
+            background-image: url(images/bar.gif);
+            background-repeat: repeat-x;
+            background-size: 100% 100%;
+        }
+        
+        .footerLink{
+            width: 100%;
+            height: 40%;
+            text-align: center;
+            padding-top: 5px;
+            color: white;
+        }
+        
+        .footerLink a{
+            text-decoration: none;
+        }
+        
+        .footerLink a:link, a:visited{
+            color: white;
+        }
+    
+        .footerCopyright{
+            width: 100%;
+            height: 40%;
+            text-align: center;
+            color: white; 
+        }
